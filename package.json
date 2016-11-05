@@ -1,0 +1,29 @@
+{
+  "name": "listing-crawler-runner",
+  "version": "0.0.1",
+  "description": "Listing crawler runner",
+  "main": "runner.js",
+  "dependencies": {
+    "zmq": "^2.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listing-crawler/runner.git"
+  },
+  "keywords": [
+    "listing",
+    "crawler",
+    "realestate",
+    "advertisement"
+  ],
+  "author": "Martin Hlavac <info@mhlavac.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/listing-crawler/runner/issues"
+  },
+  "homepage": "https://github.com/listing-crawler/runner#readme"
+}
